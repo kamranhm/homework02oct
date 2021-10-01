@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\bin\Debug\netcoreapp3.1\Faceebook.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\bin\Debug\netcoreapp3.1\Faceebook.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\bin\Debug\netcoreapp3.1\Faceebook.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\bin\Debug\netcoreapp3.1\Faceebook.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\bin\Debug\netcoreapp3.1\Faceebook.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\bin\Debug\netcoreapp3.1\Faceebook.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Faceebook\Faceebook\obj\Debug\netcoreapp3.1\Faceebook.genruntimeconfig.cache
